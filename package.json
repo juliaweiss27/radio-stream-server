@@ -1,0 +1,11 @@
+{
+  "name": "radio-stream",
+  "version": "1.0.0",
+  "main": "radioStream.js",
+  "scripts": {
+    "start": "node radioStream.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
